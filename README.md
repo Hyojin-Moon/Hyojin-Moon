@@ -2,13 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello!!&animation=fadeIn&fontColor=6e7d8c&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Developer </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Dev </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
-    <div align= "center">
+    <!-- <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
-        <h2>Front-End</h2>
+    <h2>Front-End</h2>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -51,19 +51,19 @@
     <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
     <img src="https://img.shields.io/badge/Mockito-FFAB00?style=for-the-badge&logo=Mockito&logoColor=white">
     <br/></div>
-    </div>
-    <div align= "center">
+    </div> -->
+    <!-- <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@6776ff/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@6776ff/posts"> </a>
          <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
          <a href=mailto:moontough8@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:moontough8@gmail.com"> </a>
           </div>  <br> 
-    </div>
-    <img src="https://raw.githubusercontent.com/Hyojin-Moon/Hyojin-Moon/output/snake.svg" alt="Snake animation" />
-    <div align= "center"> 
+    </div> -->
+    <!-- <img src="https://raw.githubusercontent.com/Hyojin-Moon/Hyojin-Moon/output/snake.svg" alt="Snake animation" /> -->
+    <!-- <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyojin-Moon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hyojin-Moon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hyojin-Moon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hyojin-Moon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
 </div>
     </div>
     
